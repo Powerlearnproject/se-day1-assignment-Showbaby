@@ -55,13 +55,20 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 
 Unit Testing: This focusese on testing individual components or functions of the software or to to ensure they work in isolation.
 It is typically done by developers and  involves writing test cases for each unit code. 
+
 Integration Testing: This tests how different units and modelsof the application work together.
+
 System Testing: This type of testing evaluates the complete and integrated software system. 
+
 Acceptance Testing: This is performed to determine whether the software meets the end-user's perspective
 and it is done by the end-users or a quality assurance team that the system is ready for deployment.
+
 Unit testing helps identify and fix bugs at the earliest stage making debugging easier and cheaper.
+
 Integration testing helps identify issues that may arise when different modules interact, whic unit test might not reveal. 
+
 System Testing: ensures that the entire system functions as expected and satisfy all the requirement for functional and non-functional perspectives. it validates the end-to-end workflow.
+
 Acceptance Testing: Confirms that the software meets the criteria set by stakeholders and is ready for deployment.
 
 #Part 2: Introduction to AI and Prompt Engineering
